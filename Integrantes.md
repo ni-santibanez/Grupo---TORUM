@@ -1,4 +1,4 @@
 Integrantes:
-Joaquin Clark
-Ana Díaz
-Nicolás Santibáñez
+Joaquin Clark, 
+Ana Díaz, 
+Nicolás Santibáñez.
